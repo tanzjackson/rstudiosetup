@@ -1,0 +1,34 @@
+---
+title: "Resume M4"
+author: "Tanzania Jackson"
+date: "6/21/2020"
+output: html_document
+-------------------------
+# Tanzania Jackson
+
+***
+
+## Education
+
+1. Indiana State University   
+   **2015-2019**  
+   BS in Marketing Management  
+
+1. Yeshiva University  
+   **2019-2021**  
+   MS in Digital Marketing and Media  
+
+***
+
+## Experience
+
+1. CEDIA  
+  *Marketing Project Coordinator   
+  ***July 2019- Present**
+
+1. Golden Giraffe Creative  
+  *Founder  
+  ***June 2020** 
+
+>*"Good decisions come from experience. Experience comes from making bad decisions."*  Mark Twain
+
